@@ -2,6 +2,6 @@ test-notification
 =================
 
 edycja
-ksadasdsfsdfdsdsfsdfsdfsffdedycja
+ksadasdsfsdfdsffdedycja
 sdfkjsdfksdf2
 
